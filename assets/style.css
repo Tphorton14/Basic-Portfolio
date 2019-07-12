@@ -147,6 +147,16 @@ input[type=submit]:hover {
     color: #FC766AFF;
 }
 
+.con {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    border-bottom: 1px solid black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 1.6em;
+}
+
 
 
 
