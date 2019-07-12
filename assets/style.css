@@ -158,6 +158,26 @@ input[type=submit]:hover {
 }
 
 
+.port {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+    background: blue;
+    position: static;
+}
+
+.portf {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    border-bottom: 1px solid black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 1.6em;
+}
+
 
 
 
