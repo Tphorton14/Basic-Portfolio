@@ -104,6 +104,38 @@ a:hover {
     color: #FC766AFF;
 }
 
+label, input[type=text], 
+input[type=email], 
+#message {
+    display: block;
+    width: 100%;
+    font: inherit;
+    font-size: 18px;
+}
+
+label:hover {
+    color: #FC766AFF;
+}
+
+input[type=text] {
+    height: 25px;
+}
+
+input[type=email] {
+    height: 25px;
+}
+
+#message {
+    height: 100px;
+    padding-bottom: 80px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+
+
 
 
 
