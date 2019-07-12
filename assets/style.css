@@ -180,16 +180,9 @@ input[type=submit]:hover {
 
 }
 
-.one {
-    grid-row: 1 / 3;
-}
-
-.two {
-    grid-row: 2 / 3
-}
 
 .three {
-    grid-row: 3 / 3
+    clear: left;
 }
 
 
